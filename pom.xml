@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>pl.home.helper</groupId>
-    <artifactId>HH-Home-Helper</artifactId>
+    <artifactId>hh-home-helper</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>HH-Home-Helper</name>
     <description>Project for help comprehend You home issues.</description>
