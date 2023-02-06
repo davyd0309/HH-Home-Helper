@@ -47,7 +47,7 @@
         </dependency>
         <dependency>
             <groupId>pl.home.helper</groupId>
-            <artifactId>HH-Home-Helper-Models</artifactId>
+            <artifactId>hh-home-helper-models</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
