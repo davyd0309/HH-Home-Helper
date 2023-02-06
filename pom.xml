@@ -63,8 +63,7 @@
     </dependencies>
     <repositories>
          <repository>
-                  <id><id>github</id></id>
-                  <name>My github repo</name>
+                  <id>github</id>
                   <url>https://maven.pkg.github.com/davyd0309</url>
          </repository>
     </repositories>     
