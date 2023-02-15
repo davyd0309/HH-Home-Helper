@@ -15,7 +15,7 @@
                 </repository>
                 <repository>
                     <id>github</id>
-                    <url>https://maven.pkg.github.com/davyd0309/pl/home/helper/hh-home-helper-models</url>
+                    <url>https://maven.pkg.github.com/davyd0309</url>
                     <snapshots>
                         <enabled>true</enabled>
                     </snapshots>
