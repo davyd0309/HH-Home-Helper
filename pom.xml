@@ -66,7 +66,7 @@
                   <id>github</id>
                   <url>https://maven.pkg.github.com/davyd0309</url>
          </repository>
-    </repositories>     
+    </repositories>
     <build>
         <plugins>
             <plugin>
