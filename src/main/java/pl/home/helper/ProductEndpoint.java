@@ -44,5 +44,4 @@ public class ProductEndpoint {
     public ResponseEntity<ProductDto> showTestProduct() {
         return new ResponseEntity<>(new ProductDto("test product", 122), HttpStatus.FOUND);
     }
-
 }
