@@ -61,6 +61,12 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <repositories>
+        <repository>
+            <id>jFrog-repo</id>
+            <url>https://davyd0309.jfrog.io/artifactory/default-libs-release-local</url>
+        </repository>
+    </repositories>
 
     <build>
         <plugins>
